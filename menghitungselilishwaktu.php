@@ -18,7 +18,7 @@ input{margin: 5px;}
 <body>
  
 	<center>
-	<h1>Aplikasi Menghitung Selisih Waktu</h1>
+	<h1>Menghitung Selisih Waktu</h1>
 	<form action="" method="post">
 	inputkan tanggal dan jam (yyyy-mm-dd hh:ii:ss)<br /> <input type="text" name="dt" /><br />		
 	<input type="submit" value="hitung" name="get" />
